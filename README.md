@@ -1,2 +1,2 @@
 # VMware
-Scripts related to vmware products
+Scripts related to VMware products
